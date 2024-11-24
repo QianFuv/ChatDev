@@ -82,16 +82,6 @@ python3 visualizer/app.py
 
 ![回放](misc/replay.gif)
 
-<thinking>继续翻译后半部分...
-
-需要特别注意:
-1. Docker相关内容的专业性翻译
-2. 配置说明部分的准确性
-3. 保持技术术语的一致性
-4. 确保实验和自定义部分的说明清晰易懂
-
-让我继续完成剩余部分的翻译工作。</thinking>
-
 ## Docker 启动
 - 您可以使用 Docker 来快速且安全地使用 ChatDev。由于 ChatDev 经常创建带有 GUI 的软件并在测试阶段执行它们,您需要一些额外的步骤来允许在 Docker 中执行 GUI 程序。
 
@@ -294,15 +284,6 @@ python3 visualizer/app.py
             ]
           }
           ```
-
-<thinking>继续翻译最后一部分内容。这部分包含了更多关于自定义 Phase、Role 以及各种配置参数的详细说明。我会:
-
-1. 保持专业术语的准确性
-2. 确保配置说明的清晰度
-3. 保持代码示例的可读性
-4. 维持文档结构的完整性
-
-让我继续翻译。</thinking>
 
 - 自定义 ComposePhase
     - 配置请参见 ``CompanyConfig/Default/ChatChainConfig.json``,实现请参见 ``chatdev/composed_phase.py``。
